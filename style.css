@@ -1,0 +1,13 @@
+.application{
+    height: 100vh;
+}
+
+.category-tag{
+    cursor: pointer;
+}
+
+.category-tag::after{
+    content: 'x';
+    font-size: 20px;
+    color: blue;
+}
