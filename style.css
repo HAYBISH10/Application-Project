@@ -7,7 +7,10 @@
 }
 
 .category-tag::after{
-    content: 'x';
+    /* content: 'x';
     font-size: 20px;
-    color: blue;
+    color: blue; */
+    /* position: absolute;
+    height: 40px;
+    width: 40px; */
 }
